@@ -3,7 +3,7 @@
 	<parent>
 		<groupId>com.sepaq.connector</groupId>
 		<artifactId>common-connector-util</artifactId>
-		<version>0.0.2-SNAPSHOT</version>
+		<version>0.0.2</version>
 	</parent>
 	<artifactId>common-connector-logging</artifactId>
 	<name>Logging</name>

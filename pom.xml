@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sepaq.connector</groupId>
 	<artifactId>common-connector-util</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<packaging>pom</packaging>
 	<name>common-connector-util</name>
 	<modules>
@@ -42,6 +42,6 @@
 		<url>https://github.com/devsepaq/common-connector-util.git</url>
 		<connection>scm:git:ssh://git@github.com/devsepaq/common-connector-util.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com/devsepaq/common-connector-util.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>common-connector-util-0.0.2</tag>
 	</scm>
 </project>
